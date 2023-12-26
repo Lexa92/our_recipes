@@ -1,0 +1,54 @@
+body
+{
+ background-color: pink;
+ margin: auto;
+ padding: auto;
+ 
+}
+
+
+
+
+h1{
+
+    text-align: center;
+   
+}
+.odin
+{
+    color: darkred;
+}
+ul{
+    list-style: none;
+    color: blueviolet;
+    display: block;
+}
+.img{
+    display: flex;
+    justify-content: center;
+}
+
+.yako
+{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+
+    
+}
+.item
+{
+    display: flex;
+    margin: 10px;
+}
+.all
+{
+   
+    border:10px solid;
+    padding-top:50px;
+    transform: scale(.7);
+    border-radius: 10px;
+    background-color: bisque;
+    margin-left: 20px;
+    margin-right: 20px ;
+}
